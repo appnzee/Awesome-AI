@@ -11,7 +11,7 @@ This repository is a community-driven effort, and we welcome contributions from 
 - To find the tool, go through the Table of Contents or search for a keyword (for example, "animation", "video", "image', "coding").
 
 ## Awesome AI Tools
-| # | Tool Name  |  Description  |
+| # | Tool Name       |  Description  |
 |:------:|:----------:|:-------------|
 | 1 |  [Ai QRCodes](https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator)  |  Ai QRCodes is an AI-powered QRCode ART Generator that transforms ordinary QR codes into visually stunning and artistic designs. Elevate your QR codes to a whole new level of creativity and aesthetics with ease. |
 | 2 | [AutoCode](https://app.autocodepro.com/signin)     |  Your Personal Junior Developer! Bring your OpenAI API key and get an AI based Junior Developer for FREE!  
@@ -23,14 +23,14 @@ This repository is a community-driven effort, and we welcome contributions from 
 | 8 | [Dumme](https://dumme.com/)    |  Looking for Short Editor? You Never have to edit shorts again! its a short generator that generates shorts from the given video  |
 | 9 | [Framer Ai](https://www.framer.com/ai)  | Framer AI is an innovative no-code web design tool that leverages artificial intelligence to simplify and speed up the process of website creation.  |
 | 10 | [Google Bard](https://bard.google.com/chat)  | Bard is Google's ChatGPT alternative, designed to assist you in natural, dynamic conversations and provide intelligent responses for a wide range of tasks. |
-| 11 | [Help me write by Google](https://chrome.google.com/webstore/detail/help-me-write/fflhlefcdbiidoncgmndlpkmbdiipilf)  | Just write one-line prompt, AI will automatically generates the whole email for you in seconds. |
+| 11 | [Help me write by Google](https://chrome.google.com/webstore/detail/help-me-write/fflhlefcdbiidoncgmndlpkmbdiipilf)      | Just write one-line prompt, AI will automatically generates the whole email for you in seconds. |
 | 12 | [HeyGen](https://app.heygen.com/guest/home)  | HeyGen is a generative artificial intelligence (AI) video platform that provides users with the ability to translate videos into different languages without requiring any technical expertise.  |
 | 13 | [HyperWrite](https://www.hyperwriteai.com/)   |  HyperWrite's AI Writer is a versatile AI-powered content creation tool that helps you generate content on any topic and in any format  | 
 | 14 | [Ideogram](https://ideogram.ai/)       |  Ideogram is AI text-to-image service It can generate digital images, including company logos, from just a text prompt.  |
 | 15 | [InVideoAi](https://invideo.io/?utm_source=google&utm_medium=cpc&utm_campaign=Global_Search_Brand_Exact_EN&adset_name=InVideo&keyword=invideo&network=g&device=c&utm_term=invideo&utm_content=InVideo&matchtype=e&placement=g&campaign_id=18035330774&adset_id=140632017272&ad_id=616240030681&gad=1&gclid=CjwKCAjwjaWoBhAmEiwAXz8DBcdrqI5ngLa1FM9NpPwIepgzqi0Ift9mY6v2boLGq0oK_oQKRNcHtxoCklIQAvD_BwE)    |  Text to video generator. this AI tool generates script and uses stock footages to create entire video for you on the prompt you give   
 | 16 | [MediSearch](https://medisearch.io/)   | MediSearch is a leading AI-driven medical search engine that prioritizes science-based answers to health-related queries   |
-| 17 | [MusicGen By META](https://huggingface.co/spaces/facebook/MusicGen)   | META released MusicGen, a Language Model designed for creating music. Not just that, it produces high-quality music while being conditioned on text description or melodic features. and best thing it's FREE  | 
-| 18 | [Open Interpreter](https://openinterpreter.com/)   | Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing.   |
+| 17 | [MusicGen By META](https://huggingface.co/spaces/facebook/MusicGen)        | META released MusicGen, a Language Model designed for creating music. Not just that, it produces high-quality music while being conditioned on text description or melodic features. and best thing it's FREE  | 
+| 18 | [Open Interpreter](https://openinterpreter.com/)        | Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing.   |
 | 19 | [Runaway](https://runwayml.com/)   | Runway is a generative AI platform with tools for transforming images and video clips  | 
 | 20 | [Starter Guide](https://docs.google.com/document/d/13_l1bd1Osgz7qlAZn-zhklCbHpVRk6bYOuAuB78qmsE/edit#heading=h.qjrl2d41vtmt) [Datasheet](https://docs.google.com/spreadsheets/d/1tAUaQrEHYgRsm1Lvrnj14HFHDwJWl0Bd9x0QePewNco/edit#gid=0)  |   Retrieval-based Voice Conversion is a technique that uses a deep neural network to transform the voice of a speaker into another voice  | 
 | 21 | [Slides Ai](https://slidesai.io/)  |  Create presentation slides easily using this AI tool  |
