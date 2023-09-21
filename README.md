@@ -40,7 +40,9 @@ This repository is a community-driven effort, and we welcome contributions from 
 | 18) | Open Interpreter  | [Click Here](https://openinterpreter.com/)   | Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing.   |
 | 19) | Runaway  | [Click Here](https://runwayml.com/)   | Runway is a generative AI platform with tools for transforming images and video clips  | 
 | 20) | RVC | [Starter Guide](https://docs.google.com/document/d/13_l1bd1Osgz7qlAZn-zhklCbHpVRk6bYOuAuB78qmsE/edit#heading=h.qjrl2d41vtmt) [Datasheet](https://docs.google.com/spreadsheets/d/1tAUaQrEHYgRsm1Lvrnj14HFHDwJWl0Bd9x0QePewNco/edit#gid=0)  |   Retrieval-based Voice Conversion is a technique that uses a deep neural network to transform the voice of a speaker into another voice  | 
-| 21) | Slides Ai  | https://slidesai.io/  |  Create presentation slides easily using this AI tool  |
-| 22) | Tome Ai    | https://tome.app/     |  Tome.ai offers a refreshing approach to knowledge sharing by seamlessly blending presentations, interactive elements, and artificial intelligence.  | 
-| 23) | Voice.Ai   | https://voice.ai/     |  Voice AI is a conversational AI tool that uses voice commands to receive and interpret directives.    |
-
+| 21) | Slides Ai  | [Click Here](https://slidesai.io/)  |  Create presentation slides easily using this AI tool  |
+| 22) | SmolAi     | [Click Here](https://socket.dev/npm/package/smolai)  |  We're taking a deep dive into a mind-blowing AI tool SmolAI where you can develop chrome extensions and web Apps in one click.  | 
+| 23) | SunoAi     | [Click Here](https://www.suno.ai/)    | Suno AI is an artificial intelligence system developed by the company Anthropic to generate high-quality singing voices, instrumentals, and full musical compositions using just text prompts. | 
+| 24) | Tome Ai    | [Click Here](https://tome.app/)     |  Tome.ai offers a refreshing approach to knowledge sharing by seamlessly blending presentations, interactive elements, and artificial intelligence.  | 
+| 25) | Voice.Ai   | [Click Here](https://voice.ai/ )    |  Voice AI is a conversational AI tool that uses voice commands to receive and interpret directives.    |
+| 26) | Wonder Studio  | [Click Here](https://wonderdynamics.com/)   | Wonder Studio is an AI tool that automates the animation, lighting, and composition of CG characters in live-action scenes. It eliminates the need for motion capture and complex 3D software, making it easier for artists to bring their characters to life.  |
