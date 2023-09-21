@@ -16,7 +16,7 @@ This repository is a community-driven effort, and we welcome contributions from 
 
 [TOC]
 
-### [Animation Tools](#animation)
+### Animation Tools
 Within this section, you'll discover a curated selection of AI tools and resources tailored specifically for animators, artists, and enthusiasts. Whether you're interested in automating animation tasks, generating lifelike character movements, or exploring new dimensions of creative expression, these tools harness the power of AI to unlock fresh possibilities in the realm of animation.
 
 - [WonderStudio](https://wonderdynamics.com/) --- Wonder Studio is an AI tool that automates the animation, lighting, and composition of CG characters in live-action scenes. It eliminates the need for motion capture and complex 3D software, making it easier for artists to bring their characters to life.
