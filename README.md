@@ -45,4 +45,5 @@ This repository is a community-driven effort, and we welcome contributions from 
 | 30 | [Humata](https://www.humata.ai/)          | Humata AI is an AI assistant tool that users can leverage for research applications. It touts itself as “ChatGPT for all your files,” enabling you to analyze and understand long papers and other kinds of documents. With Humata AI, you can understand your data faster and thus work smarter |
 | 31 | [CareerDekho](https://careerdekho.ai/)    |  CareerDekho Ai is an AI-powered career guidance tool. Its main function is to help users find an ideal career that suits their personality, values, interests, and skills.  |
 | 32 | [BlueWillow](https://www.bluewillow.ai/)   | BlueWillow AI is a state-of-the-art artificial intelligence image generator. It stands in the same league as other AI image generators such as Midjourney, DALL-E, and several others.  | 
-| 33 | [Marsx.dev](https://www.marsx.dev/)    | MarsX is a developer tool that combines AI, NoCode, and ProCode on top of MicroApps. |
+| 33 | [LandscapioAI](https://www.landscapioai.com/) | AI landscape design generator for outdoor space concepts and visual planning. |
+| 34 | [Marsx.dev](https://www.marsx.dev/)    | MarsX is a developer tool that combines AI, NoCode, and ProCode on top of MicroApps. |
