@@ -46,3 +46,4 @@ This repository is a community-driven effort, and we welcome contributions from 
 | 31 | [CareerDekho](https://careerdekho.ai/)    |  CareerDekho Ai is an AI-powered career guidance tool. Its main function is to help users find an ideal career that suits their personality, values, interests, and skills.  |
 | 32 | [BlueWillow](https://www.bluewillow.ai/)   | BlueWillow AI is a state-of-the-art artificial intelligence image generator. It stands in the same league as other AI image generators such as Midjourney, DALL-E, and several others.  | 
 | 33 | [Marsx.dev](https://www.marsx.dev/)    | MarsX is a developer tool that combines AI, NoCode, and ProCode on top of MicroApps. |
+| 34 | [LiveFaceSwap AI](https://livefaceswap.ai/) | Real-time reference-based face swapping, try-on, and restyling from a webcam, with browser preview and desktop virtual-camera output. |
