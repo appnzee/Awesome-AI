@@ -47,3 +47,4 @@ This repository is a community-driven effort, and we welcome contributions from 
 | 32 | [BlueWillow](https://www.bluewillow.ai/)   | BlueWillow AI is a state-of-the-art artificial intelligence image generator. It stands in the same league as other AI image generators such as Midjourney, DALL-E, and several others.  | 
 | 33 | [Marsx.dev](https://www.marsx.dev/)    | MarsX is a developer tool that combines AI, NoCode, and ProCode on top of MicroApps. |
 | 34 | [LiveFaceSwap AI](https://livefaceswap.ai/) | Real-time reference-based face swapping, try-on, and restyling from a webcam, with browser preview and desktop virtual-camera output. |
+| 35 | [Magic Hour](https://magichour.ai/) | AI video creation platform for generating and editing videos, images, and audio. |
