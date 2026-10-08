@@ -48,3 +48,4 @@ This repository is a community-driven effort, and we welcome contributions from 
 | 33 | [Marsx.dev](https://www.marsx.dev/)    | MarsX is a developer tool that combines AI, NoCode, and ProCode on top of MicroApps. |
 | 34 | [LiveFaceSwap AI](https://livefaceswap.ai/) | Real-time reference-based face swapping, try-on, and restyling from a webcam, with browser preview and desktop virtual-camera output. |
 | 35 | [Magic Hour](https://magichour.ai/) | AI video creation platform for generating and editing videos, images, and audio. |
+| 36 | [Tale](https://github.com/tale-project/tale) | Self-hosted project workspace for assigning tasks to AI agents with shared context and reviewing their reports and deliverables. |
