@@ -49,3 +49,4 @@ This repository is a community-driven effort, and we welcome contributions from 
 | 34 | [LiveFaceSwap AI](https://livefaceswap.ai/) | Real-time reference-based face swapping, try-on, and restyling from a webcam, with browser preview and desktop virtual-camera output. |
 | 35 | [Magic Hour](https://magichour.ai/) | AI video creation platform for generating and editing videos, images, and audio. |
 | 36 | [shortshort](https://www.shortshort.io/) | Turns one long video (talk, podcast, course) into vertical 9:16 shorts with word-by-word captions and face-tracked reframing. Free plan with 60 credits, no card. |
+| 37 | [looot](https://looot.ai/) | Business data API and hosted MCP server for AI agents: people and company enrichment, work emails, SERP and web search. Prepaid, paid per call. |
