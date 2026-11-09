@@ -52,3 +52,4 @@ This repository is a community-driven effort, and we welcome contributions from 
 | 37 | [looot](https://looot.ai/) | Business data API and hosted MCP server for AI agents: people and company enrichment, work emails, SERP and web search. Prepaid, paid per call. |
 | 38 | [YYLO](https://github.com/yylo-dev/yylo) | Open-source command-line orchestrator for coding agents (Claude Code, Codex, Pi): parallel worktrees, Kanban task state, Git-native merges, and repeatable workflows. Free, MIT-licensed. |
 | 39 | [agent-qa](https://vostride.com/docs/agent-qa) | Self-improving QA agent for natural-language web and mobile tests, with memidex memory that preserves facts and working procedures across runs. |
+| 40 | [ORANO](https://oranoai.com) | Turns saved Reels, TikToks, YouTube videos and articles into searchable summaries and step-by-step plans. iOS, Android and web. Freemium; closed source. |
