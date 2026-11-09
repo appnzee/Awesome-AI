@@ -54,3 +54,4 @@ This repository is a community-driven effort, and we welcome contributions from 
 | 39 | [agent-qa](https://vostride.com/docs/agent-qa) | Self-improving QA agent for natural-language web and mobile tests, with memidex memory that preserves facts and working procedures across runs. |
 | 40 | [ORANO](https://oranoai.com) | Turns saved Reels, TikToks, YouTube videos and articles into searchable summaries and step-by-step plans. iOS, Android and web. Freemium; closed source. |
 | 41 | [ReelAI](https://tryreelai.com/) | Paid photo-to-video tool with preset effects for short-form creators. |
+| 42 | [objekto.io](https://objekto.io/en) | Turns a few words, a photo or a sketch into a real object: its AI designs a print-ready multi-part 3D model (exploded view, assembly guide, printability checks), then an industrial workshop 3D prints it and delivers it (France only for now). Free to start with 2,000 credits, no card. |
